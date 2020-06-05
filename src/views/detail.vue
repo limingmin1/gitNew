@@ -41,10 +41,10 @@
         </el-form-item>
         <el-form-item label="商品详情"></el-form-item>
         <el-input type="textarea" v-model="form.detail"></el-input>
-        <el-form-item>
+        <!-- <el-form-item>
           <el-button type="primary" @click="uploadFile">立即创建</el-button>
           <el-button>取消</el-button>
-        </el-form-item>
+        </el-form-item> -->
       </el-form>
     </div>
   </div>

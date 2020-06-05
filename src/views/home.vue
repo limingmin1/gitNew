@@ -23,7 +23,7 @@
 import LeftMenu from "../components/LftMenu"
 import SystemHeader from "../components/SystemHeader"
 export default {
-    components:{LeftMenu,SystemHeader}
+    // components:{LeftMenu,SystemHeader}
 }
 </script>
 <style>
